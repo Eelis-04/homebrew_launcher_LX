@@ -1,6 +1,8 @@
-# homebrew_launcher_LX
+# Homebrew Launcher LX
 Simple and lightweight .sh and App loader for devices running any linux distro. Current primary target: postmarketOS. Based on the WiiU homebrew launcher GUI 
 There will be a set path, where users put in folders containg .sh files that can then be executed from the homebrew launcher. Useful for mobile devices running linux and desktop too. Apps can also be launched from it, but the primary usecase should be .sh files. For apps and programs I'm making Loadiine-pmOS as an alternative application launcher on mobile linux. 
+
+(LX = Linux. Wanted to add something to avoid confusion with the WiiU Homebrew Launcher)
 
 Will be uploading source code soon. started like an hour ago :p
 
