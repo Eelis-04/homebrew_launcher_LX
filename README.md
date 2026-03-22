@@ -9,4 +9,4 @@ Will be uploading source code soon. started like an hour ago :p
 
 ## Credits
 Design Idea came from the WiiU Homebrew Launcher by dimok
-! [https://github.com/dimok789/homebrew_launcher]
+https://github.com/dimok789/homebrew_launcher
