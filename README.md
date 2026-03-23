@@ -4,7 +4,7 @@ There will be a set path, where users put in folders containg .sh files that can
 
 (LX = Linux. Wanted to add something to avoid confusion with the WiiU Homebrew Launcher)
 
-Will be uploading source code soon. started like an hour ago :p
+Currently its only GUI and doesnt have any functioning features! 
 
 ## Screenshots
 <img src="Screenshot_20260323_004613.png" width="300"/>
