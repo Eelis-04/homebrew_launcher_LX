@@ -22,6 +22,16 @@ Example:
         - meta.xml
         - icon.png
 
+## Upcoming features
+
+.sh / app loader
+
+Background music and button sounds
+
+Quick Settings to customize it 
+
+Button textures
+
 ## Credits
 Design Idea came from the WiiU Homebrew Launcher by dimok
 https://github.com/dimok789/homebrew_launcher
