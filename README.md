@@ -9,6 +9,19 @@ Currently its only GUI and doesnt have any functioning features!
 ## Screenshots
 <img src="Screenshot_20260323_004613.png" width="300"/>
 
+## Usage
+Any loadable .sh file will appear in the homebrew launcher LX if copied to the right path. Will be using a folder named "hbl" in the user directory, the subfolder will be named "apps", in the apps folder either just the .sh files or folders containing an xml file with basic information about the .sh file and an icon. 
+
+Example: 
+
+- Eelis:/
+  - hbl/
+    - apps/
+     - shutdown/
+        - shutdown.sh
+        - meta.xml
+        - icon.png
+
 ## Credits
 Design Idea came from the WiiU Homebrew Launcher by dimok
 https://github.com/dimok789/homebrew_launcher
